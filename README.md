@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Surya S. Rai👋
 
 <!--
 **surya-s-rai/surya-s-rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
